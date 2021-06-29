@@ -12,3 +12,6 @@ ici j'ajoute un truc
 
 edit local
 edit remote
+
+
+ici un nouvel edit remote 
