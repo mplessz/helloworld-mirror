@@ -14,3 +14,5 @@ edit local
 edit remote
 
 et bam
+
+edit local
