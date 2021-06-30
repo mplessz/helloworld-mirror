@@ -16,3 +16,9 @@ edit remote
 et bam
 
 edit local
+edit distant
+
+hohoho
+heheh
+trick
+track
