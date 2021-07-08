@@ -1,8 +1,8 @@
 * test stata depuis vscode
-di "hello you"
+di "hello you pretty bird"
 
-* pas réussi à faire communiquer vscode avec Stata. 
-* de toute évidence il faut installer Python et je vais attendre un peu pour ça.
-* mais au moins j'ai la coloration syntaxique.
+* Fonctionne :raccourcis ctrl + alt+ n ou ctrl + alt + k (run code et run selected lines)
+* ou clic droit sur fichier ou susr code et "run code"
 
-*https://marketplace.visualstudio.com/items?itemName=Yeaoh.stataRun
+*https://www.programmersought.com/article/97026053558/
+*https://huebler.blogspot.com/2008/04/stata.html
